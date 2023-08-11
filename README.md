@@ -30,7 +30,7 @@ based in Vancouver, BC.
 
 - 💻: In my free time, I read tech articles and develop full stack, enterprise level projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-arieltyson-blue?style=flat&logo=Linkedin&logoColor=white)](arieltyson)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-arieltyson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arieltyson)
 
 ---
 
