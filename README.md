@@ -1,3 +1,7 @@
+<div align="center">
+  <h1><strong>Hello, my name is Ariel Tyson 👨🏿‍💻</strong></h1>
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="100"/>
   <div id="badges">
@@ -20,7 +24,7 @@
 
 ---
 
-### 👨🏿‍💻: About Me :
+## 👓 About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 based in Vancouver, BC.
 
