@@ -20,15 +20,15 @@
 
 ---
 
-### :man_technologist: About Me :
+### 👨🏿‍💻: About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 based in Vancouver, BC.
 
-- :telescope: I currently work as a Mobile App Developer, contributing to frontend and backend for building mobile applications.
+- 📱: I currently work as a Mobile App Developer, contributing to frontend and backend for building mobile applications.
 
-- :seedling: Exploring the innovations of software development is my passion.
+- 💭: Exploring the innovations of software development is my passion.
 
-- :zap: In my free time, I read tech articles and develop full stack, enterprise level projects.
+- 💻: In my free time, I read tech articles and develop full stack, enterprise level projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-arieltyson-blue?style=flat&logo=Linkedin&logoColor=white)](arieltyson)
 
@@ -47,11 +47,14 @@ based in Vancouver, BC.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
 ---
 
-### :fire: My Stats :
+### 📊: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arieltyson&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arieltyson&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
