@@ -28,11 +28,11 @@
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 based in Vancouver, BC.
 
-- 📱: I currently work as a Mobile App Developer, contributing to frontend and backend for building mobile applications.
+- 📱: I currently work as a Software Developer Intern, building full stack, enterprise applications.
 
 - 💭: Exploring the innovations of software development is my passion.
 
-- 💻: In my free time, I read tech articles and develop full stack, enterprise level projects.
+- 💻: In my free time, I read tech articles and develop multi-platform customer facing software.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-arieltyson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arieltyson)
 
