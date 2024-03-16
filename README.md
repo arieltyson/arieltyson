@@ -30,6 +30,8 @@ based in Vancouver, BC.
 
 - 📱: I currently work as a Software Developer Intern, building full stack, enterprise applications.
 
+- 🤖: My next journey takes me into Mobile Development, working of Platform and Infrastructure.
+
 - 💭: Exploring the innovations of software development is my passion.
 
 - 💻: In my free time, I read tech articles and develop multi-platform customer facing software.
