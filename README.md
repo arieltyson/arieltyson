@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Animation Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ariel+Tyson+👨🏿‍💻;Software+Engineer+Intern+%40+Twitch;Apple+Swift+Challenge+Winner+🏆;Android+%26+iOS+Development+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ariel+Tyson+👨🏿‍💻;Software+Engineer+Intern+%40+Twitch;Apple+Swift+Challenge+Winner+🏆;iOS+Development+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 <!-- Profile Image with Animation -->
 <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="120" style="border-radius: 50%;"/>
@@ -51,6 +51,7 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 ## 💻 Tech Stack & Skills
 
 ### Programming Languages
+
 <div align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -63,6 +64,7 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 </div>
 
 ### Mobile & iOS Development
+
 <div align="center">
   <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white" alt="UIKit"/>
@@ -73,6 +75,7 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 </div>
 
 ### Cloud & DevOps
+
 <div align="center">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
@@ -82,6 +85,7 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 </div>
 
 ### Web & Backend
+
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
@@ -93,20 +97,20 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 
 ### 🚀 My Experience
 
-| Company | Role | Key Achievements |
-|---|---|---|
-| **Twitch (Amazon)** | Software Engineer Intern | Architected authentication for anonymous sessions, which added 70 million daily minutes watched to the Twitch iOS app. [cite_start]I also engineered networking logic with SwiftUI and UIKit and built dynamic discovery feeds using GraphQL, which resulted in a 30% improvement in content engagement metrics.  |
-| **Workday** | Software Engineer Intern | [cite_start]Delivered features in Objective-C & Swift for developer productivity tools.  [cite_start]I improved app observability by 75% using Signposts & Combine and refactored classes to adhere to SOLID principles.  |
-| **RAD Torque Systems** | Software Developer Intern | Developed a multi-platform search feature with C# & .NET MAUI. [cite_start]I also automated workflows with a Jenkins CI/CD pipeline, which reduced deployment cycles from 2 hours to 10 minutes.  |
+| Company                | Role                      | Key Achievements                                                                                                                                                                                                                                                                                                 |
+| ---------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Twitch (Amazon)**    | Software Engineer Intern  | Architected authentication for anonymous sessions, which added 70 million daily minutes watched to the Twitch iOS app. [cite_start]I also engineered networking logic with SwiftUI and UIKit and built dynamic discovery feeds using GraphQL, which resulted in a 30% improvement in content engagement metrics. |
+| **Workday**            | Software Engineer Intern  | [cite_start]Delivered features in Objective-C & Swift for developer productivity tools. [cite_start]I improved app observability by 75% using Signposts & Combine and refactored classes to adhere to SOLID principles.                                                                                          |
+| **RAD Torque Systems** | Software Developer Intern | Developed a multi-platform search feature with C# & .NET MAUI. [cite_start]I also automated workflows with a Jenkins CI/CD pipeline, which reduced deployment cycles from 2 hours to 10 minutes.                                                                                                                 |
 
 ---
 
 ### 🏆 Featured Projects
 
-| Project | Description | Tech Stack | Status |
-|---|---|---|---|
-| **Focus AR** | [cite_start]**Apple Swift Student Challenge Winner.** An iOS app that utilizes ARKit and a custom CoreML model to render interactive 3D objects and provide real-time clutter detection. [cite: 1] | `ARKit`, `Vision`, `CoreML`, `RealityKit` | [GitHub Repo](https://github.com/arieltyson/Focus-AR) |
-| **Tourism Beats** | [cite_start]An iOS app that leverages MusicKit, WeatherKit, and MapKit to create an immersive tourism experience with dynamic UI animations powered by SwiftUI and SceneKit. [cite: 8] | `Swift`, `SwiftUI`, `MusicKit`, `WeatherKit`, `MapKit` | [App Store Link](https://apps.apple.com/app/tourism-beats) / [GitHub Repo](https://github.com/arieltyson/Tourism-Beats) |
+| Project           | Description                                                                                                                                                                                        | Tech Stack                                             | Status                                                                                                                  |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| **Focus AR**      | [cite_start]**Apple Swift Student Challenge Winner.** An iOS app that utilizes ARKit and a custom CoreML model to render interactive 3D objects and provide real-time clutter detection. [cite: 1] | `ARKit`, `Vision`, `CoreML`, `RealityKit`              | [GitHub Repo](https://github.com/arieltyson/Focus-AR)                                                                   |
+| **Tourism Beats** | [cite_start]An iOS app that leverages MusicKit, WeatherKit, and MapKit to create an immersive tourism experience with dynamic UI animations powered by SwiftUI and SceneKit. [cite: 8]             | `Swift`, `SwiftUI`, `MusicKit`, `WeatherKit`, `MapKit` | [App Store Link](https://apps.apple.com/app/tourism-beats) / [GitHub Repo](https://github.com/arieltyson/Tourism-Beats) |
 
 ---
 
@@ -118,6 +122,7 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 [![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arieltyson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Top Languages -->
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arieltyson&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
@@ -137,7 +142,6 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 
 ---
 
-
 ## 📈 Activity Graph
 
 <!-- Snake Animation -->
@@ -148,7 +152,6 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arieltyson/arieltyson/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 
 ---
 
@@ -168,4 +171,3 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to chat!</b> :)</em>
 </div>
-
