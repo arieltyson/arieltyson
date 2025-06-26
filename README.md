@@ -19,6 +19,9 @@
   <a href="https://github.com/arieltyson" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://github.com/arieltyson/Ariel_Tyson_Software_Engineer_Resume/blob/main/Ariel_Tyson_Software_Engineer_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+</a>
 </div>
 
 <!-- Profile Views Counter -->
