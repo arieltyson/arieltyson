@@ -18,37 +18,23 @@ jobs:
           template: classic
           config_timezone: America/Vancouver
           config_theme: tokyonight
+          # We keep this to ensure the bar and calendar stack nicely
           config_twocol: yes 
           
-          # --- REMOVED THE TOP SECTIONS ---
-          # Setting base to "" removes the Header, Activity, Community, etc.
+          # --- Content Control ---
+          # Disable standard text stats
           base: ""
           
-          # --- Languages (Colorful Bar) ---
+          # --- 1. The Colorful Languages Bar ---
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           
-          # --- 3D Calendar (The "Snake" Replacement) ---
+          # --- 2. The 3D Calendar (Reliable & Cool) ---
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # --- Coding Habits (FIXED ERROR) ---
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          # Reduced from 200 -> 60 to prevent timeout/crashing
-          plugin_habits_from: 60 
-          
-          # --- Achievements (FIXED ERROR) ---
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          # We explicitly limit it to 8 to stop it from freezing
-          plugin_achievements_limit: 8
+          # --- REMOVED: Habits & Achievements (The source of errors) ---
