@@ -119,8 +119,6 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/arieltyson/arieltyson/main/github-metrics.svg?v=1" alt="Metrics" width="100%">
 </div>
