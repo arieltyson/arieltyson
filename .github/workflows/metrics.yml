@@ -18,15 +18,11 @@ jobs:
           template: classic
           config_timezone: America/Vancouver
           config_theme: tokyonight
-          # This forces a dashboard layout instead of a long list
           config_twocol: yes 
           
-          # --- Core Stats (Top Left) ---
-          base: header, activity, community, repositories
-          
-          # --- 3D Calendar (Top Right - The "Cool" Part) ---
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # --- REMOVED THE TOP SECTIONS ---
+          # Setting base to "" removes the Header, Activity, Community, etc.
+          base: ""
           
           # --- Languages (Colorful Bar) ---
           plugin_languages: yes
@@ -39,13 +35,20 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           
-          # --- Achievements (Badges) ---
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          # --- 3D Calendar (The "Snake" Replacement) ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           
-          # --- Coding Habits (Simplified to prevent crashing) ---
+          # --- Coding Habits (FIXED ERROR) ---
           plugin_habits: yes
+          plugin_habits_charts: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          # Reduced from 200 -> 60 to prevent timeout/crashing
+          plugin_habits_from: 60 
+          
+          # --- Achievements (FIXED ERROR) ---
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          # We explicitly limit it to 8 to stop it from freezing
+          plugin_achievements_limit: 8
