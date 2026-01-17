@@ -120,27 +120,7 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<!-- GitHub Stats Card -->
-[![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arieltyson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Top Languages -->
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arieltyson&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arieltyson&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arieltyson&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github.com/arieltyson/arieltyson/releases/download/metrics/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ---
