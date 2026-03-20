@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Animation Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ariel+Tyson+👨🏿‍💻;Software+Engineer+Intern+%40+Twitch;Apple+Swift+Challenge+Winner+🏆;iOS+Development+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ariel+Tyson+👨🏿‍💻;Incoming+Software+Engineer+%40+Apple;Apple+Swift+Challenge+Winner+🏆;iOS+%26+ML+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 <!-- Profile Image with Animation -->
 <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="120" style="border-radius: 50%;"/>
@@ -29,7 +29,7 @@
 
 <!-- Welcome Animation -->
 <h2>
-  Welcome to my GitHub Universe! 
+  Welcome to my GitHub Universe!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 </h2>
 
@@ -39,9 +39,10 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on iOS platform development and infrastructure as part of Twitch's Mobile Core team. As a **2025 Apple Swift Student Challenge Winner**, I'm passionate about creating innovative mobile experiences and exploring the intersection of AI and mobile technology.
+I'm a **Software Engineer** joining **Apple** this summer on the **VoiceOver accessibility team**, advancing assistive technology across Apple platforms. Previously at **Twitch (Amazon)** on iOS platform development, and a **2025 Apple Swift Student Challenge Winner**. I'm passionate about creating innovative mobile experiences and exploring the intersection of AI, accessibility, and mobile technology.
 
-- 🔭 **Currently:** Software Engineer Intern at **Twitch (Amazon)** - Building scalable iOS solutions for 30M+ daily users
+- 🍎 **Incoming:** Software Engineer Intern at **Apple** - VoiceOver Accessibility Team (Summer 2026)
+- 🔭 **Previously:** Software Engineer Intern at **Twitch (Amazon)** - Built scalable iOS solutions for 30M+ daily users
 - 🏆 **Achievement:** **2025 Apple Swift Student Challenge Winner** with Focus AR project
 - 🎓 **Education:** Computer Science at **Simon Fraser University** (Graduating Dec 2026)
 - 📱 **Specialization:** iOS Development, SwiftUI, ARKit, Mobile Platform Engineering
@@ -77,6 +78,26 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </div>
 
+### Machine Learning & AI
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CoreML"/>
+  <img src="https://img.shields.io/badge/Create_ML-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Create ML"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+</div>
+
+**Areas of focus:**
+- **Supervised & Semi-Supervised Classification** — XGBoost ensembles, 1D CNNs, and feature engineering for signal and sensor data
+- **Anomaly Detection** — Autoencoders, one-class SVMs, and softmax confidence thresholding for out-of-distribution detection
+- **Unsupervised Clustering** — DBSCAN-based discovery of novel categories from unlabeled data
+- **On-Device ML** — CoreML and Create ML pipelines for real-time inference on Apple platforms
+- **Computer Vision** — ARKit scene understanding, object detection, and clutter-aware spatial analysis
+- **Geolocation & Tracking** — Nonlinear least-squares trilateration, Kalman filtering, and uncertainty quantification
+
 ### Cloud & DevOps
 
 <div align="center">
@@ -94,6 +115,8 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </div>
 
 ---
@@ -102,6 +125,7 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 
 | Company                | Role                      | Key Achievements                                                                                                                                                                                                                                                       |
 | ---------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Apple** | Software Engineer Intern *(Incoming Summer 2026)* | Joining the VoiceOver accessibility team to advance assistive technology across Apple platforms. |
 | **Twitch (Amazon)**    | Software Engineer Intern | Architected authentication for anonymous sessions, which added 70 million daily minutes watched to the Twitch iOS app. I also engineered networking logic with SwiftUI and UIKit and built dynamic discovery feeds using GraphQL, which resulted in a 30% improvement in content engagement metrics. |
 | **Workday**            | Software Engineer Intern | Delivered features in Objective-C & Swift for developer productivity tools. I improved app observability by 75% using Signposts & Combine and refactored classes to adhere to SOLID principles.                                                                    |
 | **RAD Torque Systems** | Software Developer Intern | Developed a multi-platform search feature with C# & .NET MAUI. I also automated workflows with a Jenkins CI/CD pipeline, which reduced deployment cycles from 2 hours to 10 minutes.                                                                                |
@@ -113,7 +137,9 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 | Project           | Description                                                                                                                                                                  | Tech Stack                                             | Status                                                                                                                  |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 | **Focus AR**      | **Apple Swift Student Challenge Winner.** An iOS app that utilizes ARKit and a custom CoreML model to render interactive 3D objects and provide real-time clutter detection. | `ARKit`, `Vision`, `CoreML`, `RealityKit`              | [GitHub Repo](https://github.com/arieltyson/FocusAR-Swift-Student-Challenge)                                                                   |
+| **PomoDuo**       | A synchronized Pomodoro timer for couples using Apple's Screen Time APIs, Firebase real-time sync, Live Activities on Dynamic Island, and full WCAG 2.1 AA accessibility. | `SwiftUI`, `FamilyControls`, `Firebase`, `ActivityKit` | [GitHub Repo](https://github.com/arieltyson/PomoDuo)                                                                   |
 | **Tourism Beats** | An iOS app that leverages MusicKit, WeatherKit, and MapKit to create an immersive tourism experience with dynamic UI animations powered by SwiftUI and SceneKit.            | `Swift`, `SwiftUI`, `MusicKit`, `WeatherKit`, `MapKit` | [App Store Link](https://apps.apple.com/app/tourism-beats/id6708221715) / [GitHub Repo](https://github.com/arieltyson/Tourism-Beats) |
+| **H.A.R.P.**     | A real-time signals intelligence system that detects, classifies, and geolocates RF emitters using semi-supervised ML, anomaly detection, and DBSCAN hostile discovery. | `Python`, `PyTorch`, `XGBoost`, `FastAPI`, `Mapbox`    | [GitHub Repo](https://github.com/Bravo-Six-Alpha-Charlie/H.A.R.P-Playground)                                           |
 
 ---
 
@@ -141,7 +167,7 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 ## 🤝 Let's Connect!
 
 <div align="center">
-  
+
 **Always excited to collaborate on innovative projects and discuss mobile development!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arieltyson)
@@ -151,6 +177,6 @@ I'm a **Software Engineer** currently working at **Twitch (Amazon)** focusing on
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to chat!</b> :)</em>
 </div>
