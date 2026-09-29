@@ -39,11 +39,14 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** joining **Apple** this summer on the **VoiceOver accessibility team**, advancing assistive technology across Apple platforms. Previously at **Twitch (Amazon)** on iOS platform development, and a **2025 Apple Swift Student Challenge Winner**. I'm passionate about creating innovative mobile experiences and exploring the intersection of AI, accessibility, and mobile technology.
+I'm a **Software Engineer** who recently worked at **Apple** this summer on the **VoiceOver accessibility team**, advancing assistive technology across Apple platforms. I previously worked at **Twitch (Amazon)** & **Workday** on iOS platform development, and won the **2025 Apple Swift Student Challenge**. I'm passionate about creating innovative mobile experiences and exploring the intersection of AI, Machine Learning, accessibility, and mobile technology.
 
-- 🍎 **Incoming:** Software Engineer Intern at **Apple** - VoiceOver Accessibility Team (Summer 2026)
+My latest fascination has been on **Financial Technology (FinTech)** systems. 💰
+
+- 🍎 **Previously:** Software Engineer Intern at **Apple** - VoiceOver Accessibility Team (Summer 2026)
 - 🔭 **Previously:** Software Engineer Intern at **Twitch (Amazon)** - Built scalable iOS solutions for 30M+ daily users
 - 🏆 **Achievement:** **2025 Apple Swift Student Challenge Winner** with Focus AR project
+- 💼 **Previously:** Software Engineer Intern at **Workday** - iOS Platform Architecture team
 - 🎓 **Education:** Computer Science at **Simon Fraser University** (Graduating Dec 2026)
 - 📱 **Specialization:** iOS Development, SwiftUI, ARKit, Mobile Platform Engineering
 - 🤖 **Interests:** AI/ML integration in mobile apps, Computer Vision, AR/VR experiences
@@ -128,7 +131,7 @@ I'm a **Software Engineer** joining **Apple** this summer on the **VoiceOver acc
 
 | Company                | Role                      | Key Achievements                                                                                                                                                                                                                                                       |
 | ---------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Apple** | Software Engineer Intern *(Incoming Summer 2026)* | Joining the VoiceOver accessibility team to advance assistive technology across Apple platforms. |
+| **Apple** | Software Engineer Intern | macOS VoiceOver accessibility team to advance assistive technology across Apple platforms. |
 | **Twitch (Amazon)**    | Software Engineer Intern | Architected authentication for anonymous sessions, which added 70 million daily minutes watched to the Twitch iOS app. I also engineered networking logic with SwiftUI and UIKit and built dynamic discovery feeds using GraphQL, which resulted in a 30% improvement in content engagement metrics. |
 | **Workday**            | Software Engineer Intern | Delivered features in Objective-C & Swift for developer productivity tools. I improved app observability by 75% using Signposts & Combine and refactored classes to adhere to SOLID principles.                                                                    |
 | **RAD Torque Systems** | Software Developer Intern | Developed a multi-platform search feature with C# & .NET MAUI. I also automated workflows with a Jenkins CI/CD pipeline, which reduced deployment cycles from 2 hours to 10 minutes.                                                                                |
