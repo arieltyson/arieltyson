@@ -8,10 +8,22 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      RENDER: /metrics_renders/github-metrics.svg
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v5
+
+      # GitHub often times out the repository query (HTTP 502). The action then
+      # exits without retrying and renders an empty languages bar, while the run
+      # still reports success. So render without publishing, check the result,
+      # retry, and only commit a render that contains languages.
+      - &render
+        if: env.RENDER_OK != 'true'
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          output_action: none
           
           # --- Layout & Style ---
           user: arieltyson
@@ -38,3 +50,40 @@ jobs:
           plugin_isocalendar_duration: half-year
           
           # --- REMOVED: Habits & Achievements (The source of errors) ---
+
+      - &check
+        if: env.RENDER_OK != 'true'
+        run: |
+          if grep -q 'no-wrap language' "$RENDER"; then
+            echo "RENDER_OK=true" >> "$GITHUB_ENV"
+          else
+            echo "::warning::Render has an empty languages bar"
+          fi
+
+      - *render
+      - *check
+      - *render
+      - *check
+      - *render
+      - *check
+      - *render
+      - *check
+      - *render
+      - *check
+
+      - name: Publish render
+        if: env.RENDER_OK == 'true'
+        run: |
+          cp "$RENDER" github-metrics.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update github-metrics.svg - [Skip GitHub Action]"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - name: Keep last good render
+        if: env.RENDER_OK != 'true'
+        run: echo "::warning::All render attempts failed; keeping the previous github-metrics.svg"
