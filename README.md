@@ -70,6 +70,11 @@ My latest fascination has been on **Financial Technology (FinTech)** systems. ü
   <img src="https://img.shields.io/badge/Objective--C-438eff?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/q_(kdb%2B)-1E78B3?style=for-the-badge&logo=kx&logoColor=white" alt="q (kdb+)"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </div>
 
 ### Mobile (iOS & Android)
@@ -82,6 +87,11 @@ My latest fascination has been on **Financial Technology (FinTech)** systems. ü
   <img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="ARKit"/>
   <img src="https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CoreML"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Combine"/>
+  <img src="https://img.shields.io/badge/The_Composable_Architecture-5B2C83?style=for-the-badge&logo=swift&logoColor=white" alt="The Composable Architecture"/>
+  <img src="https://img.shields.io/badge/XCTest-147EFB?style=for-the-badge&logo=swift&logoColor=white" alt="XCTest"/>
+  <img src="https://img.shields.io/badge/Swift_Testing-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Testing"/>
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI"/>
 </div>
 
 ### Machine Learning & AI
@@ -94,7 +104,12 @@ My latest fascination has been on **Financial Technology (FinTech)** systems. ü
   <img src="https://img.shields.io/badge/Create_ML-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Create ML"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
 </div>
+
+<br>
 
 **Areas of focus:**
 - **Supervised & Semi-Supervised Classification** ‚Äî XGBoost ensembles, 1D CNNs, and feature engineering for signal and sensor data
@@ -104,6 +119,32 @@ My latest fascination has been on **Financial Technology (FinTech)** systems. ü
 - **Computer Vision** ‚Äî ARKit scene understanding, object detection, and clutter-aware spatial analysis
 - **Geolocation & Tracking** ‚Äî Nonlinear least-squares trilateration, Kalman filtering, and uncertainty quantification
 
+### Quant
+
+<div align="center">
+  <img src="https://img.shields.io/badge/kdb%2B%2Fq-1E78B3?style=for-the-badge&logo=kx&logoColor=white" alt="kdb+/q"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
+  <img src="https://img.shields.io/badge/cvxpy-2E7D32?style=for-the-badge" alt="cvxpy"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</div>
+
+<br>
+
+**Areas of focus:**
+- **Market Microstructure** ‚Äî C++20 limit order book and matching engine, streaming an ITCH-style feed over UDP multicast
+- **Tick Data** ‚Äî kdb+/q tick store for LOBSTER-format order book events, serving as-of joins to Python and R
+- **Market Making** ‚Äî Avellaneda-Stoikov strategy combining LightGBM and FinBERT NLP signals
+- **Distributed Backtesting** ‚Äî Parameter sweeps on Apache Spark feeding a cvxpy optimizer
+- **Personal Finance Modelling** ‚Äî Multi-currency CAD/USD cash-flow forecasting and FX-aware portfolio optimization
+
 ### Cloud & DevOps
 
 <div align="center">
@@ -112,6 +153,12 @@ My latest fascination has been on **Financial Technology (FinTech)** systems. ü
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
+  <img src="https://img.shields.io/badge/GoogleTest-4285F4?style=for-the-badge" alt="GoogleTest"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
 </div>
 
 ### Web & Backend
@@ -123,6 +170,10 @@ My latest fascination has been on **Financial Technology (FinTech)** systems. ü
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
 </div>
 
 ---
@@ -135,17 +186,6 @@ My latest fascination has been on **Financial Technology (FinTech)** systems. ü
 | **Twitch (Amazon)**    | Software Engineer Intern | Architected authentication for anonymous sessions, which added 70 million daily minutes watched to the Twitch iOS app. I also engineered networking logic with SwiftUI and UIKit and built dynamic discovery feeds using GraphQL, which resulted in a 30% improvement in content engagement metrics. |
 | **Workday**            | Software Engineer Intern | Delivered features in Objective-C & Swift for developer productivity tools. I improved app observability by 75% using Signposts & Combine and refactored classes to adhere to SOLID principles.                                                                    |
 | **RAD Torque Systems** | Software Developer Intern | Developed a multi-platform search feature with C# & .NET MAUI. I also automated workflows with a Jenkins CI/CD pipeline, which reduced deployment cycles from 2 hours to 10 minutes.                                                                                |
-
----
-
-### üèÜ Featured Projects
-
-| Project           | Description                                                                                                                                                                  | Tech Stack                                             | Status                                                                                                                  |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| **Focus AR**      | **Apple Swift Student Challenge Winner.** An iOS app that utilizes ARKit and a custom CoreML model to render interactive 3D objects and provide real-time clutter detection. | `ARKit`, `Vision`, `CoreML`, `RealityKit`              | [GitHub Repo](https://github.com/arieltyson/FocusAR-Swift-Student-Challenge)                                                                   |
-| **PomoDuo**       | A synchronized Pomodoro timer for couples using Apple's Screen Time APIs, Firebase real-time sync, Live Activities on Dynamic Island, and full WCAG 2.1 AA accessibility. | `SwiftUI`, `FamilyControls`, `Firebase`, `ActivityKit` | [GitHub Repo](https://github.com/arieltyson/PomoDuo)                                                                   |
-| **Tourism Beats** | An iOS app that leverages MusicKit, WeatherKit, and MapKit to create an immersive tourism experience with dynamic UI animations powered by SwiftUI and SceneKit.            | `Swift`, `SwiftUI`, `MusicKit`, `WeatherKit`, `MapKit` | [App Store Link](https://apps.apple.com/app/tourism-beats/id6708221715) / [GitHub Repo](https://github.com/arieltyson/Tourism-Beats) |
-| **H.A.R.P.**     | A real-time signals intelligence system that detects, classifies, and geolocates RF emitters using semi-supervised ML, anomaly detection, and DBSCAN hostile discovery. | `Python`, `PyTorch`, `XGBoost`, `FastAPI`, `Mapbox`    | [GitHub Repo](https://github.com/Bravo-Six-Alpha-Charlie/H.A.R.P-Playground)                                           |
 
 ---
 
