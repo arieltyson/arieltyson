@@ -46,7 +46,7 @@ My latest focus is **quantitative finance**. I'm building **Microprice**, a mark
 - 🍎 **Previously:** Software Engineer Intern at **Apple** - VoiceOver Accessibility Team (Summer 2026)
 - 🔭 **Previously:** Software Engineer Intern at **Twitch (Amazon)** - Built scalable iOS solutions for 30M+ daily users
 - 🏆 **Achievement:** **2025 Apple Swift Student Challenge Winner** with Focus AR project
-- 💼 **Previously:** Software Engineer Intern at **Workday** - iOS Platform Architecture team
+- 💼 **Previously:** Mobile Engineering Intern (iOS) at **Workday** - iOS Platform Architecture team
 - 🎓 **Education:** Computer Science at **Simon Fraser University** (Graduating Dec 2026)
 - 📱 **Specialization:** iOS Development, SwiftUI, ARKit, Mobile Platform Engineering
 - 📈 **Quant:** Market microstructure, market making, tick data, and distributed backtesting
@@ -185,8 +185,8 @@ My latest focus is **quantitative finance**. I'm building **Microprice**, a mark
 | ---------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Apple** | Software Engineer Intern | Integrated coding settings for VoiceOver in Xcode and Terminal, improving code navigation for over 60 million developers. I also authored on-device AI summarization pipelines for Xcode's Debug Console and Terminal, and reduced focus-tracking latency by 35%. |
 | **Twitch (Amazon)**    | Software Engineer Intern | Architected authentication for anonymous sessions, which added 250+ million daily minutes watched to the Twitch iOS app. I also engineered networking logic with SwiftUI and UIKit and built dynamic discovery feeds using GraphQL, which resulted in a 30% improvement in content engagement metrics. |
-| **Workday**            | Software Engineer Intern | Delivered features in Objective-C & Swift for developer productivity tools. I improved app observability by 75% using Signposts & Combine and refactored classes to adhere to SOLID principles.                                                                    |
-| **RAD Torque Systems** | Software Developer Intern | Developed a multi-platform search feature with C# & .NET MAUI. I also automated workflows with a Jenkins CI/CD pipeline, which reduced deployment cycles from 2 hours to 10 minutes.                                                                                |
+| **Workday**            | Mobile Engineering Intern (iOS) | Delivered features in Objective-C & Swift for developer productivity tools. I improved app observability by 75% using Signposts & Combine and refactored classes to adhere to SOLID principles.                                                                    |
+| **RAD Torque Systems** | DevOps / Full-Stack Software Developer Intern | Developed a multi-platform search feature with C# & .NET MAUI. I also automated workflows with a Jenkins CI/CD pipeline, which reduced deployment cycles from 2 hours to 10 minutes.                                                                                |
 
 ---
 
