@@ -29,9 +29,6 @@ jobs:
           user: arieltyson
           template: classic
           config_timezone: America/Vancouver
-          config_theme: tokyonight
-          # We keep this to ensure the bar and calendar stack nicely
-          config_twocol: yes 
           
           # --- Content Control ---
           # Disable standard text stats
